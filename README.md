@@ -1,2 +1,2 @@
 ## Links
-- [Kotlin Logo](/docs/kotlin-logo.md)
+Click [here](CONTENT.md) to view the list of examples

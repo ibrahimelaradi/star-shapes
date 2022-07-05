@@ -1,4 +1,5 @@
 ## Links to Examples
+- [diagonal](docs/diagonal.md)
 - [diamond](docs/diamond.md)
 - [kotlin-logo](docs/kotlin-logo.md)
 - [pyramid](docs/pyramid.md)
